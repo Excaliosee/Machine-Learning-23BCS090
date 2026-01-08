@@ -14,6 +14,5 @@ try:
 
     print("y =", y)
     
-
 except ValueError:
     print("Please enter binary inputs.")
